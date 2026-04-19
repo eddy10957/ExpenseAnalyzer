@@ -13,8 +13,6 @@ Expense Analyzer is a personal finance dashboard built with Astro, React islands
 
 ## Screenshots
 
-Replace these placeholder images with real screenshots when you are ready.
-
 ### Overview
 
 ![Overview placeholder](/docs/images/01.png)
