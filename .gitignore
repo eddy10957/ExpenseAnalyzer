@@ -5,3 +5,4 @@ playwright-report
 test-results
 input/*.csv
 !input/demo-export.csv
+.DS_Store

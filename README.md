@@ -2,8 +2,6 @@
 
 Expense Analyzer is a personal finance dashboard built with Astro, React islands, and a CSV-first workflow. It turns a simple export file into an interactive website for understanding cashflow, category behavior, recurring charges, anomalies, and higher-level spending insights.
 
-The repository is safe to publish publicly: it ships with a mock dataset for demos and GitHub Pages, while your real local CSV exports stay ignored by git.
-
 ## What the dashboard includes
 
 - Overview dashboard for top-level income, expense, and net trends
@@ -19,15 +17,15 @@ Replace these placeholder images with real screenshots when you are ready.
 
 ### Overview
 
-![Overview placeholder](docs/images/overview-placeholder.svg)
+![Overview placeholder](/docs/images/01.png)
 
 ### Insights
 
-![Insights placeholder](docs/images/insights-placeholder.svg)
+![Insights placeholder](docs/images/05.png)
 
 ### Transactions
 
-![Transactions placeholder](docs/images/transactions-placeholder.svg)
+![Transactions placeholder](docs/images/07.png)
 
 ## Tech stack
 
@@ -124,7 +122,7 @@ This repository is designed for a public GitHub repo:
 - the public repo uses `input/demo-export.csv`
 - a GitHub Pages workflow is included at `.github/workflows/deploy.yml`
 
-Important: if your real CSVs were ever committed before they were ignored, removing them now is not enough. You must rewrite or replace the local git history before pushing to a public remote.
+
 
 ## GitHub Pages
 
@@ -140,3 +138,48 @@ GitHub Pages availability and workflow-based publishing are documented by GitHub
 
 - GitHub Pages publishing source docs: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 - Astro GitHub Pages deployment guide: https://docs.astro.build/es/guides/deploy/github/
+
+## Gallery
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/images/01.png" alt="Dashboard gallery 01" />
+      <br />
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/images/02.png" alt="Dashboard gallery 02" />
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/images/03.png" alt="Dashboard gallery 03" />
+      <br />
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/images/04.png" alt="Dashboard gallery 04" />
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/images/05.png" alt="Dashboard gallery 05" />
+      <br />
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/images/06.png" alt="Dashboard gallery 06" />
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/images/07.png" alt="Dashboard gallery 07" />
+      <br />
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/images/08.png" alt="Dashboard gallery 08" />
+      <br />
+    </td>
+  </tr>
+</table>
