@@ -1,0 +1,16 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="36" fill="#F7F3E9"/>
+  <rect x="36" y="36" width="1208" height="120" rx="28" fill="#1B4332"/>
+  <rect x="72" y="72" width="310" height="18" rx="9" fill="#D8F3DC" opacity="0.6"/>
+  <rect x="72" y="104" width="500" height="28" rx="14" fill="#FFFFFF"/>
+  <rect x="36" y="184" width="1208" height="500" rx="32" fill="#FFFFFF"/>
+  <rect x="72" y="220" width="1136" height="74" rx="24" fill="#EEF7F0"/>
+  <rect x="72" y="322" width="1136" height="326" rx="28" fill="#F4F8F3"/>
+  <rect x="108" y="360" width="1064" height="34" rx="8" fill="#1B4332" opacity="0.08"/>
+  <rect x="108" y="418" width="1064" height="22" rx="6" fill="#1B4332" opacity="0.05"/>
+  <rect x="108" y="462" width="1064" height="22" rx="6" fill="#1B4332" opacity="0.05"/>
+  <rect x="108" y="506" width="1064" height="22" rx="6" fill="#1B4332" opacity="0.05"/>
+  <rect x="108" y="550" width="1064" height="22" rx="6" fill="#1B4332" opacity="0.05"/>
+  <rect x="108" y="594" width="1064" height="22" rx="6" fill="#1B4332" opacity="0.05"/>
+  <text x="72" y="680" fill="#3B4D47" font-family="Arial, sans-serif" font-size="28">README screenshot placeholder: Transaction explorer</text>
+</svg>

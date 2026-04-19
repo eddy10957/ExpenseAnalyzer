@@ -1,0 +1,14 @@
+---
+import { DashboardApp } from "@/components/dashboard/DashboardApp";
+import { getExpenseDataset } from "@/data/expense-data";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const dataset = getExpenseDataset();
+---
+
+<BaseLayout
+  title="Expense Analyzer Cashflow"
+  description="Cashflow dashboard for monthly income, expenses, and net trends."
+>
+  <DashboardApp client:only="react" page="cashflow" dataset={dataset} />
+</BaseLayout>

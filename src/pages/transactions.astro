@@ -1,0 +1,14 @@
+---
+import { DashboardApp } from "@/components/dashboard/DashboardApp";
+import { getExpenseDataset } from "@/data/expense-data";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const dataset = getExpenseDataset();
+---
+
+<BaseLayout
+  title="Expense Analyzer Transactions"
+  description="Transaction explorer for raw expense and income entries."
+>
+  <DashboardApp client:only="react" page="transactions" dataset={dataset} />
+</BaseLayout>

@@ -1,0 +1,97 @@
+Date,Note,Amount,Category,Type
+2025-01-02 08:00:00 +0000,Salary,3450.00,Paycheck,Income
+2025-01-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-01-05 08:00:00 +0000,Groceries,186.40,Groceries,Expense
+2025-01-08 08:00:00 +0000,Food,248.90,Food,Expense
+2025-01-11 08:00:00 +0000,Metro pass,54.00,Transport,Expense
+2025-01-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-01-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-01-21 08:00:00 +0000,Gym,39.90,Sport,Expense
+2025-02-02 08:00:00 +0000,Salary,3450.00,Paycheck,Income
+2025-02-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-02-05 08:00:00 +0000,Groceries,179.25,Groceries,Expense
+2025-02-08 08:00:00 +0000,Food,232.10,Food,Expense
+2025-02-10 08:00:00 +0000,Train tickets,62.80,Transport,Expense
+2025-02-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-02-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-02-22 08:00:00 +0000,Doctor visit,95.00,Healthcare,Expense
+2025-03-02 08:00:00 +0000,Salary,3520.00,Paycheck,Income
+2025-03-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-03-05 08:00:00 +0000,Groceries,205.80,Groceries,Expense
+2025-03-08 08:00:00 +0000,Food,266.70,Food,Expense
+2025-03-10 08:00:00 +0000,Metro pass,54.00,Transport,Expense
+2025-03-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-03-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-03-21 08:00:00 +0000,Weekend trip,310.00,Viaggi,Expense
+2025-04-02 08:00:00 +0000,Salary,3520.00,Paycheck,Income
+2025-04-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-04-05 08:00:00 +0000,Groceries,198.50,Groceries,Expense
+2025-04-08 08:00:00 +0000,Food,278.00,Food,Expense
+2025-04-10 08:00:00 +0000,Train tickets,71.50,Transport,Expense
+2025-04-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-04-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-04-26 08:00:00 +0000,Course platform,145.00,Learning,Expense
+2025-05-02 08:00:00 +0000,Salary,3520.00,Paycheck,Income
+2025-05-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-05-05 08:00:00 +0000,Groceries,191.10,Groceries,Expense
+2025-05-08 08:00:00 +0000,Food,289.40,Food,Expense
+2025-05-10 08:00:00 +0000,Metro pass,54.00,Transport,Expense
+2025-05-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-05-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-05-23 08:00:00 +0000,New phone,780.00,Sfizi,Expense
+2025-06-02 08:00:00 +0000,Salary,3600.00,Paycheck,Income
+2025-06-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-06-05 08:00:00 +0000,Groceries,204.35,Groceries,Expense
+2025-06-08 08:00:00 +0000,Food,301.20,Food,Expense
+2025-06-10 08:00:00 +0000,Train tickets,68.40,Transport,Expense
+2025-06-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-06-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-06-24 08:00:00 +0000,Flight to Lisbon,420.00,Viaggi,Expense
+2025-07-02 08:00:00 +0000,Salary,3600.00,Paycheck,Income
+2025-07-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-07-05 08:00:00 +0000,Groceries,214.90,Groceries,Expense
+2025-07-08 08:00:00 +0000,Food,335.60,Food,Expense
+2025-07-10 08:00:00 +0000,Metro pass,54.00,Transport,Expense
+2025-07-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-07-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-07-20 08:00:00 +0000,Hotel stay,510.00,Viaggi,Expense
+2025-08-02 08:00:00 +0000,Salary,3600.00,Paycheck,Income
+2025-08-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-08-05 08:00:00 +0000,Groceries,201.15,Groceries,Expense
+2025-08-08 08:00:00 +0000,Food,327.80,Food,Expense
+2025-08-10 08:00:00 +0000,Train tickets,64.20,Transport,Expense
+2025-08-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-08-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-08-25 08:00:00 +0000,Dentist,180.00,Healthcare,Expense
+2025-09-02 08:00:00 +0000,Salary,3600.00,Paycheck,Income
+2025-09-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-09-05 08:00:00 +0000,Groceries,209.70,Groceries,Expense
+2025-09-08 08:00:00 +0000,Food,345.10,Food,Expense
+2025-09-10 08:00:00 +0000,Metro pass,54.00,Transport,Expense
+2025-09-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-09-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-09-19 08:00:00 +0000,Weekend city break,360.00,Viaggi,Expense
+2025-10-02 08:00:00 +0000,Salary,3680.00,Paycheck,Income
+2025-10-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-10-05 08:00:00 +0000,Groceries,219.45,Groceries,Expense
+2025-10-08 08:00:00 +0000,Food,318.40,Food,Expense
+2025-10-10 08:00:00 +0000,Train tickets,66.50,Transport,Expense
+2025-10-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-10-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-10-23 08:00:00 +0000,Birthday gifts,240.00,Gifts,Expense
+2025-11-02 08:00:00 +0000,Salary,3680.00,Paycheck,Income
+2025-11-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-11-05 08:00:00 +0000,Groceries,207.30,Groceries,Expense
+2025-11-08 08:00:00 +0000,Food,298.90,Food,Expense
+2025-11-10 08:00:00 +0000,Metro pass,54.00,Transport,Expense
+2025-11-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-11-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-11-24 08:00:00 +0000,Winter clothes,295.00,Sfizi,Expense
+2025-12-02 08:00:00 +0000,Salary,3680.00,Paycheck,Income
+2025-12-03 08:00:00 +0000,Rent,1125.00,Rent,Expense
+2025-12-05 08:00:00 +0000,Groceries,238.80,Groceries,Expense
+2025-12-08 08:00:00 +0000,Food,362.50,Food,Expense
+2025-12-10 08:00:00 +0000,Train tickets,71.20,Transport,Expense
+2025-12-14 08:00:00 +0000,Netflix,15.99,Subscriptions,Expense
+2025-12-16 08:00:00 +0000,OpenAI,23.00,Subscriptions,Expense
+2025-12-22 08:00:00 +0000,Holiday trip,690.00,Viaggi,Expense
