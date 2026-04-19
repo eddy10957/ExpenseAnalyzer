@@ -121,22 +121,6 @@ This repository is designed for a public GitHub repo:
 - a GitHub Pages workflow is included at `.github/workflows/deploy.yml`
 
 
-
-## GitHub Pages
-
-This repo includes a GitHub Pages workflow for Astro. Once the repo is on GitHub:
-
-1. Open repository `Settings`
-2. Go to `Pages`
-3. Under `Build and deployment`, choose `GitHub Actions`
-4. Push to `main` or `master`
-5. Wait for the deploy workflow to finish in the `Actions` tab
-
-GitHub Pages availability and workflow-based publishing are documented by GitHub and Astro:
-
-- GitHub Pages publishing source docs: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-- Astro GitHub Pages deployment guide: https://docs.astro.build/es/guides/deploy/github/
-
 ## Gallery
 
 <table>
